@@ -1,7 +1,7 @@
 # AmigoCara
 <h2>Project Overview</h2>
 
-Social Media website created in Laravel/PHP - Laravel Framework 7.9.2
+Social Media website created in Laravel/PHP - Laravel Framework 7.9.2 upgraded to 10.x
 
 <h2>Laravel</h2>
 
